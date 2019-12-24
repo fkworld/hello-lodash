@@ -6,6 +6,7 @@
       "DOM",
       "ES5",
       "ESNext"
-    ]
+    ],
+    "esModuleInterop": true
   }
 }
